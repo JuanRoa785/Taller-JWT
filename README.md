@@ -66,4 +66,4 @@ http://localhost:8080/swagger-ui/index.html
 🎥 **[Introducción a Spring Security y JWT - Video Explicativo](https://youtu.be/2tf0UY6gV3Y?list=PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF)**
 
 
-📄 **[PDF Explicativo](./Documentacion/Investigacion_JWT%20_Juan%20Roa_22100086.pdf)** – Documentación de la implementación en formato PDF
+📄 **[PDF Explicativo](./Documentacion/Investigacion_JWT_Juan_Roa_22100086.pdf)** – Documentación de la implementación en formato PDF
